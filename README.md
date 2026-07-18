@@ -48,7 +48,7 @@ Learning • Building • Growing
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,git,github,vscode,linux&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,git,github,vscode,windows,linux&perline=6"/>
 
 </p>
 
