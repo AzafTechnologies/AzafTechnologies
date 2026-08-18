@@ -32,23 +32,23 @@ Learning • Building • Growing
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 I'm a **Computer Science student** passionate about learning and building.
+🎮 I'm a **Computer Science Student** passionate about creating immersive and engaging gaming experiences.
 
-🌱 Currently exploring **Python, AI, Machine Learning, Web Development, and Cloud Computing.**
+🌱 Currently exploring **Game Development, Unity, Unreal Engine, Godot, C#, C++, and Game Design.**
 
-💡 I enjoy turning ideas into projects while improving my programming and problem-solving skills.
+💡 I enjoy turning creative ideas into playable experiences while improving my programming, problem-solving, and game development skills.
 
-🎯 **Goal:** Become a skilled AI & Software Engineer through continuous learning and hands-on experience.
+🎯 **Goal:** Become a skilled **Game Developer** and create fun, innovative, and memorable games through continuous learning and hands-on experience.
 
 <br clear="right"/>
 
 ---
 
-## 🚀 Currently Learning
+# 🚀 Currently Learning
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,git,github,vscode,windows,linux&perline=6"/>
+<img src="https://skillicons.dev/icons?i=godot,unity,unreal,cs,cpp,python,java,javascript,blender,git,github,vscode,visualstudio&perline=14"/>
 
 </p>
 
