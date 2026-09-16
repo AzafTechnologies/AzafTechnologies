@@ -54,15 +54,6 @@ Learning • Building • Growing
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzafTechnologies&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
